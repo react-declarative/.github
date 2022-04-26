@@ -6,6 +6,6 @@ However, I am going to publish It free to open source community, but, you should
 
 ![screenshot](./screenshot.png)
 
-Keep in mind that in time some projects will be outdated and not every feature will be used in there: I am writing this tool for proprietary usage in first. **And, If you want, I am always looking for some great job)**
+Keep in mind that in time some projects will become outdated and not every feature will be used in there: I am writing this tool for proprietary usage in first. **And, If you want, I am always looking for some great job)**
 
 [@tripolskypetr](https://github.com/tripolskypetr)
