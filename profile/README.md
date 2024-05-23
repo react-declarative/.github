@@ -24,3 +24,12 @@ code .
 ```
 
 Try to launch the [react-pocketbase-crm](https://github.com/react-declarative/react-pocketbase-crm) project
+
+# Playground
+
+> [!IMPORTANT]
+> Try without installing directly [in your web browser](https://react-declarative-playground.github.io/)
+
+![playground](https://github.com/react-declarative/react-declarative/raw/master/assets/playground.gif)
+
+Link to the [playground](https://react-declarative-playground.github.io/)
